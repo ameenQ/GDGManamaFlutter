@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'Startup Name Generator',
+      title: 'Startup Name Generator QQQQ',
       home: new RandomWords(),
     );
   }
